@@ -31,7 +31,6 @@ import java.io.IOException;
 
 public class RegistrationIntentService extends IntentService
 {
-
     private static final String TAG = "RegIntentService";
     private static final String[] TOPICS = {"global"};
 

@@ -16,7 +16,7 @@ import com.android.volley.toolbox.Volley;
 public class WebApi
 {
     //todo: replace with real url
-    public static String URL = "http://ppc.gabrielkerekes.eu";
+    public static String URL = "http://pcphonecommunicatorweb.azurewebsites.net";
 
     private Context context;
 
